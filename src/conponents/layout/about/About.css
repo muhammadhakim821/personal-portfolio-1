@@ -1,0 +1,22 @@
+.experience{
+    border-radius: 20px;
+
+    margin: 15px;
+    background: white;
+    box-shadow: -17px 5px 189px -19px rgba(70, 68, 68, 0.44);
+    opacity: 5;
+
+}
+.totalExp{
+    display: flex;
+    align-items: center;
+     /* position: absolute; */
+}
+.sociallinks{
+   position: relative;
+    bottom: 40px;
+    width: 220px;
+    margin: auto;
+    /* bottom: 40px; */
+    right: 30px;
+}

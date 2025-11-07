@@ -1,0 +1,16 @@
+a.fs-6.fw-bold.nav-link {
+    /* background-color:  #eeeeee; */
+    border: none;
+    padding: 8px 17px 8px 17px;
+    border-radius: 6px;
+   
+}
+
+a.fs-6.fw-bold.nav-link:hover{
+    background-color: #9929fb;
+    color: white;
+}
+
+a.fs-6.fw-bold.nav-link:active{
+    background-color: #9929fb;
+}

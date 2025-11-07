@@ -1,0 +1,21 @@
+button.casestudy.btn.btn-primary {
+    background: no-repeat;
+    color: black;
+    font-weight: 700;
+    border: 1px solid lightgrey;
+}
+button.casestudy.btn.btn-primary:hover{
+    background: no-repeat;
+    border-color: blueviolet;
+    color: blueviolet;
+    margin-right: 10px;
+
+    
+    
+}
+span svg:hover {
+    padding-left: 10px;
+    color: blueviolet;
+    font-size: 21px;
+    
+}

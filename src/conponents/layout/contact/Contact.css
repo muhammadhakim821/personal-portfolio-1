@@ -1,0 +1,52 @@
+.shadow-classes:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 15px;
+}
+.bg-shadow{
+    background-color: #f2eeed;
+    color: #9929fb;
+}
+    .bg-shadow:hover{
+        background-color: #9929fb;
+        color: white;
+    }
+.socialliks{
+    /* margin-top: 20px; */
+    /* margin-bottom: 40px; */
+}
+.socialliks ul li{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding-top: 2px;
+    border-radius: 5px;
+}
+
+    .socialliks ul li:hover{
+        background-color: #9929fb;
+        color: white    ;
+          
+        /* margin: 5px; */
+    }
+
+    input#formGroupExampleInput.form-control {
+        border: none;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-radius: 0px;
+    border-bottom: 2px solid lightgrey;
+}
+/* input#formGroupExampleInput.form-control:focus{
+     border-top: none;
+    border-left: 0px;
+    border-right: 0px;
+    border-radius: 0px;
+    border-bottom: 3px solid purple !important;
+
+} */
+
+.form-control:focus{
+    box-shadow: none !important;
+    border-color: #9929fb !important;
+}

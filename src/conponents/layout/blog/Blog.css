@@ -1,0 +1,14 @@
+
+.slick-track{
+    width: 90%;
+    background: lightblue;
+    opacity: 1;
+    display: flex;
+    transform: translate3d(0px, 0px, 0px);
+    
+}
+
+.carousel-indicators button{
+    margin-bottom: -50px;
+
+}
