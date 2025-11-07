@@ -10,6 +10,7 @@ import Services from './conponents/layout/services/Services'
 // import Testimonial from './conponents/layout/testimonial/Testimonial'
 import Contact from './conponents/layout/contact/Contact'
 import Footer from './conponents/layout/footer/Footer'
+// This is simple comment
 function Approutes() {
   return (
     <div>
